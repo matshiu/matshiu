@@ -19,6 +19,7 @@ I strongly support free and open source projects.
 [<img align="left" alt="Github" width="32px" src="https://api.iconify.design/logos:github-icon.svg" />][github]
 
 <br/>
+<hr>
 
 <div align="left">
   <img alt="overview" src="https://github.com/yooksi/github-stats/blob/master/generated/overview.svg" />
