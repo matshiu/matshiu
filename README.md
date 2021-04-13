@@ -14,18 +14,20 @@ I strongly support free and open source projects.
 
 ### How to reach me
 
-[<img align="left" alt="Stackoverflow" width="32px" src="https://api.iconify.design/logos:stackoverflow-icon.svg?width=75px&height=75px" />][stackoverflow]
-[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord.svg?width=75px&height=75px" />][discord]
-[<img align="left" alt="Github" width="32px" src="https://api.iconify.design/logos:github-icon.svg?width=75px&height=75px" />][github]
+[<img align="left" alt="Stackoverflow" src="https://api.iconify.design/logos:stackoverflow-icon.svg?width=32px&height=32px" />][stackoverflow]
+[<img align="left" alt="Discord" src="https://api.iconify.design/logos:discord.svg?width=32px&height=32px" />][discord]
+[<img align="left" alt="Github" src="https://api.iconify.design/logos:github-icon.svg?width=32px&height=32px" />][github]
 
 <br />
+<br />
+
 
 ### Code languages
 
-<img align="left" alt="Java" src="https://api.iconify.design/cib:java.svg?color=%23da7c38&width=50px&height=50px" />
-<img align="left" alt="C++" src="https://api.iconify.design/file-icons:c.svg?color=%23da7c38&width=50px&height=50px" />
-<img align="left" alt="Lua" src="https://api.iconify.design/simple-icons:lua.svg?color=%23da7c38&width=50px&height=50px" />
-<img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38&width=50px&height=50px" />
+<img align="left" alt="Java" src="https://api.iconify.design/cib:java.svg?color=%23da7c38&width=40px&height=40px" />
+<img align="left" alt="C++" src="https://api.iconify.design/file-icons:c.svg?color=%23da7c38&width=40px&height=40px" />
+<img align="left" alt="Lua" src="https://api.iconify.design/simple-icons:lua.svg?color=%23da7c38&width=40px&height=40px" />
+<img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38&width=40px&height=40px" />
 
 <br/>
 <hr>
