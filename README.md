@@ -16,7 +16,14 @@ I strongly support free and open source projects.
 
 [<img align="left" alt="Stackoverflow" width="32px" src="https://api.iconify.design/logos:stackoverflow-icon.svg?" />][stackoverflow]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord.svg" />][discord]
-[<img align="left" alt="Github" width="32px" src="https://api.iconify.design/logos:github-icon.svg" />][github]
+[<img alt="Github" width="32px" src="https://api.iconify.design/logos:github-icon.svg" />][github]  
+
+### Code languages
+
+<img align="left" alt="Java" width="32px" src="https://api.iconify.design/logos:java.svg" />
+<img align="left" alt="C++" width="37px" src="https://api.iconify.design/logos:c-plusplus.svg" />
+<img align="left" alt="Groovy" width="46px" src="https://api.iconify.design/file-icons:groovy.svg" />
+<img align="left" alt="Groovy" width="45px" src="https://api.iconify.design/logos:lua.svg" />
 
 <br/>
 <hr>
