@@ -4,6 +4,8 @@ I have been a hobbyist software developer for most of my life.
 My dream is to one day work on developing an indie video game.  
 I strongly support free and open source projects.
 
+### What am I doing
+
 - 🔭 I’m currently working on [Zomboid Storm](https://github.com/pzstorm/)
 - 🌱 I’m currently learning development workflows
 - 👯 I’m looking to collaborate on creating video games
