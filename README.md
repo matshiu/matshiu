@@ -14,9 +14,9 @@ I strongly support free and open source projects.
 
 ### How to reach me
 
-[<img align="left" alt="Stackoverflow" src="https://api.iconify.design/logos:stackoverflow-icon.svg?width=32px&height=32px" />][stackoverflow]
-[<img align="left" alt="Discord" src="https://api.iconify.design/logos:discord.svg?width=32px&height=32px" />][discord]
-[<img align="left" alt="Github" src="https://api.iconify.design/logos:github-icon.svg?width=32px&height=32px" />][github]
+[<img align="left" alt="Stackoverflow" src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=%235971bf&width=35px&height=35px" />][stackoverflow]
+[<img align="left" alt="Discord" src="https://api.iconify.design/simple-icons:discord.svg?color=%235971bf&width=35px&height=35px" />][discord]
+[<img align="left" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%235971bf&width=35px&height=35px" />][github]
 
 <br/>
 <br/>
