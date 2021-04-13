@@ -29,6 +29,16 @@ I strongly support free and open source projects.
 <img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38&width=40px&height=40px" />
 
 <br/>
+<br/>
+
+### Tools used
+
+<img align="left" alt="Git" src="https://api.iconify.design/simple-icons:git.svg?color=%23ff9141&width=35px&height=35px" />
+<img align="left" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%23ff9141&width=35px&height=35px" />
+<img align="left" alt="Gradle" src="https://api.iconify.design/simple-icons:gradle.svg?color=%23ff9141&width=35px&height=35px" />
+<img align="left" alt="IDEA" src="https://api.iconify.design/simple-icons:intellijidea.svg?color=%23ff9141&width=35px&height=35px" />
+
+<br/>
 <hr>
 
 <div align="left">
