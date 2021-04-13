@@ -20,5 +20,7 @@ I strongly support free and open source projects.
 
 <br/>
 
-<img align="left" alt="overview" src="https://github.com/yooksi/github-stats/blob/master/generated/overview.svg" />
-<img align="left" alt="languages" src="https://github.com/yooksi/github-stats/blob/master/generated/languages.svg" />
+<div align="left">
+  <img alt="overview" src="https://github.com/yooksi/github-stats/blob/master/generated/overview.svg" />
+  <img alt="languages" src="https://github.com/yooksi/github-stats/blob/master/generated/languages.svg" />
+</div>
