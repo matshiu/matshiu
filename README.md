@@ -18,9 +18,8 @@ I strongly support free and open source projects.
 [<img align="left" alt="Discord" src="https://api.iconify.design/logos:discord.svg?width=32px&height=32px" />][discord]
 [<img align="left" alt="Github" src="https://api.iconify.design/logos:github-icon.svg?width=32px&height=32px" />][github]
 
-<br />
-<br />
-
+<br/>
+<br/>
 
 ### Code languages
 
@@ -30,7 +29,6 @@ I strongly support free and open source projects.
 <img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38&width=40px&height=40px" />
 
 <br/>
-<hr>
 
 <div align="left">
   <img alt="overview" src="https://github.com/yooksi/github-stats/blob/master/generated/overview.svg" />
