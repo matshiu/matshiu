@@ -20,10 +20,10 @@ I strongly support free and open source projects.
 
 ### Code languages
 
-<img align="left" alt="Java" width="43px" src="https://api.iconify.design/cib:java.svg?color=%23da7c38" />
-<img align="left" alt="C++" width="35px" src="https://api.iconify.design/simple-icons:c.svg?color=%23da7c38" />
-<img align="left" alt="Groovy" width="55px" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38" />
-<img align="left" alt="Lua" width="45px" src="https://api.iconify.design/simple-icons:lua.svg?color=%23da7c38" />
+<img align="left" alt="Java" src="https://api.iconify.design/cib:java.svg?color=%23da7c38&width=50px&height=50px" />
+<img align="left" alt="C++" src="https://api.iconify.design/file-icons:c.svg?color=%23da7c38&width=50px&height=50px" />
+<img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38&width=50px&height=50px" />
+<img align="left" alt="Lua" src="https://api.iconify.design/simple-icons:lua.svg?color=%23da7c38&width=50px&height=50px" />
 
 <br/>
 <hr>
