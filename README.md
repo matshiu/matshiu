@@ -1,6 +1,6 @@
 ### Hi, I'm Matthew 👋
 
-I do software development as a hobby for over 10 years now.  
+I have been a hobbyist software developer for most of my life.  
 My dream is to one day work on developing an indie video game.  
 I strongly support free and open source projects.
 
