@@ -23,20 +23,20 @@ I strongly support free and open source projects.
 
 ### Code languages
 
-<img align="left" alt="Java" src="https://api.iconify.design/cib:java.svg?color=%23da7c38&width=40px&height=40px" />
-<img align="left" alt="C++" src="https://api.iconify.design/file-icons:c.svg?color=%23da7c38&width=40px&height=40px" />
-<img align="left" alt="Lua" src="https://api.iconify.design/simple-icons:lua.svg?color=%23da7c38&width=40px&height=40px" />
-<img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38&width=40px&height=40px" />
+<img align="left" alt="Java" src="https://api.iconify.design/cib:java.svg?color=%235971bf&width=40px&height=40px" />
+<img align="left" alt="C++" src="https://api.iconify.design/file-icons:c.svg?color=%235971bf&width=40px&height=40px" />
+<img align="left" alt="Lua" src="https://api.iconify.design/simple-icons:lua.svg?color=%235971bf&width=40px&height=40px" />
+<img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%235971bf&width=40px&height=40px" />
 
 <br/>
 <br/>
 
 ### Tools used
 
-<img align="left" alt="Git" src="https://api.iconify.design/simple-icons:git.svg?color=%23ff9141&width=35px&height=35px" />
-<img align="left" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%23ff9141&width=35px&height=35px" />
-<img align="left" alt="Gradle" src="https://api.iconify.design/simple-icons:gradle.svg?color=%23ff9141&width=35px&height=35px" />
-<img align="left" alt="IDEA" src="https://api.iconify.design/simple-icons:intellijidea.svg?color=%23ff9141&width=35px&height=35px" />
+<img align="left" alt="Git" src="https://api.iconify.design/simple-icons:git.svg?color=%235971bf&width=35px&height=35px" />
+<img align="left" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%235971bf&width=35px&height=35px" />
+<img align="left" alt="Gradle" src="https://api.iconify.design/simple-icons:gradle.svg?color=%235971bf&width=35px&height=35px" />
+<img align="left" alt="IDEA" src="https://api.iconify.design/simple-icons:intellijidea.svg?color=%235971bf&width=35px&height=35px" />
 
 <br/>
 <hr>
