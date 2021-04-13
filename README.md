@@ -29,6 +29,7 @@ I strongly support free and open source projects.
 <img align="left" alt="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%23da7c38&width=40px&height=40px" />
 
 <br/>
+<hr>
 
 <div align="left">
   <img alt="overview" src="https://github.com/yooksi/github-stats/blob/master/generated/overview.svg" />
