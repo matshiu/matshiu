@@ -35,6 +35,7 @@ I strongly support free and open source projects.
 
 ### Tools used
 
+<img align="left" alt="OS" src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%235971bf&width=35px&height=35px" />
 <img align="left" alt="Git" src="https://api.iconify.design/simple-icons:git.svg?color=%235971bf&width=35px&height=35px" />
 <img align="left" alt="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%235971bf&width=35px&height=35px" />
 <img align="left" alt="Gradle" src="https://api.iconify.design/simple-icons:gradle.svg?color=%235971bf&width=35px&height=35px" />
