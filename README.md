@@ -7,7 +7,7 @@ I strongly support free and open source projects.
 ### What am I doing
 
 - 🛠️ I’m currently working on [Zomboid Storm](https://github.com/pzstorm/)
-- 📚 I’m currently learning development workflows
+- 📚 I’m currently learning web development
 - 🕹️ I’m always looking to collaborate on video game development
 
 [stackoverflow]: https://stackoverflow.com/users/5759072/matthew
