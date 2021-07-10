@@ -32,6 +32,7 @@ I strongly support free and open source projects.
 <img align="left" alt="HTML" title="HTML" src="https://api.iconify.design/simple-icons:html5.svg?color=%235971bf&width=40px&height=40px" />
 <img align="left" alt="CSS" title="CSS" src="https://api.iconify.design/simple-icons:css3.svg?color=%235971bf&width=40px&height=40px" />
 <img align="left" alt="PHP" title="PHP" src="https://api.iconify.design/simple-icons:php.svg?color=%235971bf&width=40px&height=40px" />
+<img align="left" alt="SQL" title="SQL" src="https://api.iconify.design/carbon:sql.svg?color=%235971bf&width=40px&height=40px" />
 <img align="left" alt="Lua" title="Lua" src="https://api.iconify.design/simple-icons:lua.svg?color=%235971bf&width=40px&height=40px" />
 <img align="left" alt="Groovy" title="Groovy" src="https://api.iconify.design/simple-icons:apachegroovy.svg?color=%235971bf&width=40px&height=40px" />
 
