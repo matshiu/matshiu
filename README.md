@@ -13,9 +13,11 @@ I strongly support free and open source projects.
 [stackoverflow]: https://stackoverflow.com/users/5759072/matthew
 [discord]: https://discord.gg/vCeydWCbd9
 [github]: https://github.com/yooksi/yooksi/issues/new
+[email]: mailto:yooks@tuta.io
 
 ### How to reach me
 
+[<img align="left" alt="Email" title="Email" src="https://api.iconify.design/fluent:mail-20-filled.svg?color=%235971bf&width=40px&height=40px" />][email]
 [<img align="left" alt="Stackoverflow" title= "Stackoverflow" src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=%235971bf&width=35px&height=35px" />][stackoverflow]
 [<img align="left" alt="Discord" title="Discord" src="https://api.iconify.design/simple-icons:discord.svg?color=%235971bf&width=35px&height=35px" />][discord]
 [<img align="left" alt="Github" title="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%235971bf&width=35px&height=35px" />][github]
