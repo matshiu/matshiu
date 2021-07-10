@@ -42,6 +42,7 @@ I strongly support free and open source projects.
 <img align="left" alt="Git" title="Git" src="https://api.iconify.design/simple-icons:git.svg?color=%235971bf&width=35px&height=35px" />
 <img align="left" alt="Github" title="Github" src="https://api.iconify.design/simple-icons:github.svg?color=%235971bf&width=35px&height=35px" />
 <img align="left" alt="Gradle" title="Gradle" src="https://api.iconify.design/simple-icons:gradle.svg?color=%235971bf&width=35px&height=35px" />
+<img align="left" alt="Docker" title="Docker" src="https://api.iconify.design/simple-icons:docker.svg?color=%235971bf&width=35px&height=35px" />
 <img align="left" alt="IDEA" title="IntelliJ IDEA" src="https://api.iconify.design/simple-icons:intellijidea.svg?color=%235971bf&width=35px&height=35px" />
 
 <br/>
