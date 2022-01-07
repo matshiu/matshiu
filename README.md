@@ -6,8 +6,8 @@ I strongly support free and open source projects.
 
 ### What am I doing
 
-- 🛠️ I’m currently working on [Zomboid Storm](https://github.com/pzstorm/)
-- 📚 I’m currently learning web development
+- 🛠️ I’m currently working on [Cataclysm: Dark Days Ahead](https://github.com/matshiu/Cataclysm-DDA).
+- 📚 I’m currently relearning writing code in C++ language.
 - 🕹️ I’m always looking to collaborate on video game development
 
 [stackoverflow]: https://stackoverflow.com/users/5759072/matthew
