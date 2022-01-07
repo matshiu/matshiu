@@ -12,8 +12,8 @@ I strongly support free and open source projects.
 
 [stackoverflow]: https://stackoverflow.com/users/5759072/matthew
 [discord]: https://discord.gg/vCeydWCbd9
-[github]: https://github.com/yooksi/yooksi/issues/new
-[email]: mailto:yooks@tuta.io
+[github]: https://github.com/matshiu/matshiu/issues/new
+[email]: mailto:matthew.cain@tuta.io
 
 ### How to reach me
 
@@ -53,6 +53,6 @@ I strongly support free and open source projects.
 <hr>
 
 <div align="left">
-  <img alt="overview" src="https://github.com/yooksi/github-stats/blob/master/generated/overview.svg" />
-  <img alt="languages" src="https://github.com/yooksi/github-stats/blob/master/generated/languages.svg" />
+  <img alt="overview" src="https://github.com/matshiu/github-stats/blob/master/generated/overview.svg" />
+  <img alt="languages" src="https://github.com/matshiu/github-stats/blob/master/generated/languages.svg" />
 </div>
