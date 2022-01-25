@@ -52,7 +52,4 @@ I strongly support free and open source projects.
 <br/>
 <hr>
 
-<div align="left">
-  <img alt="overview" src="https://github.com/matshiu/github-stats/blob/master/generated/overview.svg" />
-  <img alt="languages" src="https://github.com/matshiu/github-stats/blob/master/generated/languages.svg" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matshou&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
